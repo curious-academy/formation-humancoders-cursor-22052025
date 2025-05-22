@@ -1,0 +1,6 @@
+---
+description: 
+globs: *.ts
+alwaysApply: false
+---
+création de personnage depuis l'url http://swapi.dev/api/people

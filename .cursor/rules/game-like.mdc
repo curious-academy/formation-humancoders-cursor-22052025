@@ -1,0 +1,6 @@
+---
+description: Cette règle est spécifique pour la création de jeu 2D html
+globs: 
+alwaysApply: false
+---
+On doit travailler avec les divs et non avec le canva

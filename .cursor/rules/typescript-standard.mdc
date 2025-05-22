@@ -1,0 +1,8 @@
+---
+description: standard à respecter pour tout fichier .ts
+globs: *.ts
+alwaysApply: false
+---
+le any est banni
+
+preferer le unknown
