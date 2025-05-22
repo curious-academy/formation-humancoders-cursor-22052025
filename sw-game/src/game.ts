@@ -1,9 +1,15 @@
+import type { Player } from "./Player";
 
 export class Game {
+    public success: boolean = false;
+
     private score: number = 0;
     private isRunning: boolean = false;
     private gameElement: HTMLElement | null = null;
     
+    /**
+     * Commentaire qui sert à rien
+     */
     initialize(): void {
         // Initialiser les propriétés du jeu
         this.score = 0;
